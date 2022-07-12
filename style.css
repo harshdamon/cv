@@ -14,6 +14,8 @@ padding: 0 0 150px 0;
     font-family:"finlandica";
     font-size: 3rem;
     line-height: 1.5;
+    padding-left: 0px;
+    padding-top: 50px;
 }
 
 .container-fluid{
@@ -39,7 +41,7 @@ padding: 0 0 150px 0;
 }
 
 .bio{
-    padding: 50px 0px 0px 100px;
+    padding: 50px 0px 0px 50px;
     display: flex;
     font-size: 3rem;
 }
